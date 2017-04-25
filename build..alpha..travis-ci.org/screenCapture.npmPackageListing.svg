@@ -1,139 +1,139 @@
 <svg height="2174" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2174" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 12:31:05 +0000 14182779 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 12:31:05 +0000      345 bytes  AUTHORS</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 12:31:05 +0000    11172 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 12:31:05 +0000      525 bytes  Dockerfile</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 12:31:05 +0000    32422 bytes  LICENSE.txt</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 12:31:05 +0000    11182 bytes  README.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 12:31:05 +0000      505 bytes  appveyor.yml</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 12:31:05 +0000    11325 bytes  bin/bundles/base-app/LICENSE</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 12:31:05 +0000      527 bytes  bin/bundles/base-app/README.md</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 12:31:05 +0000      793 bytes  bin/bundles/base-app/package.json</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 12:31:05 +0000       65 bytes  bin/bundles/base-app/public/index.html</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 12:31:05 +0000      822 bytes  bin/bundles/base-app/server.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 12:31:05 +0000     2082 bytes  bin/bundles/base-plugin/README.md</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 12:31:05 +0000      608 bytes  bin/bundles/base-plugin/index.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 12:31:05 +0000      742 bytes  bin/bundles/base-plugin/package.json</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 12:31:05 +0000     1010 bytes  bin/bundles/base-plugin/test.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 12:31:05 +0000     1921 bytes  bin/cli.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 12:31:05 +0000     1916 bytes  bin/iamalive-c.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 12:31:05 +0000     2065 bytes  bin/tunnel-c.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 12:31:05 +0000     1184 bytes  electron.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 12:31:05 +0000      259 bytes  electron/appdmg.json</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 12:31:05 +0000   105943 bytes  electron/icon.icns</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 12:31:05 +0000   370070 bytes  electron/icon.ico</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 12:31:05 +0000    12684 bytes  electron/loading/loading.css</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 12:31:05 +0000     1744 bytes  electron/loading/loading.html</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 12:31:05 +0000     3193 bytes  gulpfile.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 12:31:05 +0000     2530 bytes  index.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-18 12:31:05 +0000      342 bytes  issue_template.md</tspan>
-<tspan x="10" y="474"> 28.  2017-04-18 12:31:05 +0000     1145 bytes  lib/api.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-18 12:31:05 +0000     1371 bytes  lib/app.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-18 12:31:05 +0000      416 bytes  lib/init.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-18 12:31:05 +0000     2155 bytes  lib/publish.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-18 12:31:05 +0000     1838 bytes  lib/scan.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-18 12:31:05 +0000      622 bytes  lib/start.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-18 12:31:05 +0000      254 bytes  lib/util/validate-app.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-18 12:31:05 +0000     6230 bytes  package.json</tspan>
-<tspan x="10" y="602"> 36.  2017-04-18 12:31:05 +0000     6337 bytes  public/components/apps/app.jsx</tspan>
-<tspan x="10" y="618"> 37.  2017-04-18 12:31:05 +0000     1560 bytes  public/components/apps/apps-list.jsx</tspan>
-<tspan x="10" y="634"> 38.  2017-04-18 12:31:05 +0000     1981 bytes  public/components/apps/drawer.jsx</tspan>
-<tspan x="10" y="650"> 39.  2017-04-18 12:31:05 +0000     3564 bytes  public/components/apps/explorable-app.jsx</tspan>
-<tspan x="10" y="666"> 40.  2017-04-18 12:31:05 +0000     3835 bytes  public/components/apps/explore.jsx</tspan>
-<tspan x="10" y="682"> 41.  2017-04-18 12:31:05 +0000     2826 bytes  public/components/apps/install.jsx</tspan>
-<tspan x="10" y="698"> 42.  2017-04-18 12:31:05 +0000      340 bytes  public/components/apps/live.jsx</tspan>
-<tspan x="10" y="714"> 43.  2017-04-18 12:31:05 +0000     2893 bytes  public/components/devices/controls.jsx</tspan>
-<tspan x="10" y="730"> 44.  2017-04-18 12:31:05 +0000      814 bytes  public/components/devices/device.jsx</tspan>
-<tspan x="10" y="746"> 45.  2017-04-18 12:31:05 +0000      354 bytes  public/components/devices/filter-svg.jsx</tspan>
-<tspan x="10" y="762"> 46.  2017-04-18 12:31:05 +0000      419 bytes  public/components/devices/helper.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-18 12:31:05 +0000     4649 bytes  public/components/devices/index.jsx</tspan>
-<tspan x="10" y="794"> 48.  2017-04-18 12:31:05 +0000     1382 bytes  public/components/devices/network-app.jsx</tspan>
-<tspan x="10" y="810"> 49.  2017-04-18 12:31:05 +0000      662 bytes  public/components/devices/refresh-pod.jsx</tspan>
-<tspan x="10" y="826"> 50.  2017-04-18 12:31:05 +0000     3964 bytes  public/components/history/index.jsx</tspan>
-<tspan x="10" y="842"> 51.  2017-04-18 12:31:05 +0000     5346 bytes  public/components/index.jsx</tspan>
-<tspan x="10" y="858"> 52.  2017-04-18 12:31:05 +0000      767 bytes  public/components/lib/index.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-18 12:31:05 +0000      683 bytes  public/components/misc/activity-pulse.jsx</tspan>
-<tspan x="10" y="890"> 54.  2017-04-18 12:31:05 +0000      808 bytes  public/components/misc/connection-pod.jsx</tspan>
-<tspan x="10" y="906"> 55.  2017-04-18 12:31:05 +0000      267 bytes  public/components/misc/feedback-pod.jsx</tspan>
-<tspan x="10" y="922"> 56.  2017-04-18 12:31:05 +0000     1527 bytes  public/components/misc/history-conf.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-18 12:31:05 +0000      358 bytes  public/components/misc/version-pod.jsx</tspan>
-<tspan x="10" y="954"> 58.  2017-04-18 12:31:05 +0000      310 bytes  public/components/not-found.jsx</tspan>
-<tspan x="10" y="970"> 59.  2017-04-18 12:31:05 +0000     3408 bytes  public/components/notifications/index.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-18 12:31:05 +0000     1126 bytes  public/components/notifications/notifications-po\</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 11:30:42 +0000 14182779 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 11:30:42 +0000      345 bytes  AUTHORS</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 11:30:42 +0000    11172 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 11:30:42 +0000      525 bytes  Dockerfile</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 11:30:42 +0000    32422 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 11:30:42 +0000    11182 bytes  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 11:30:42 +0000      505 bytes  appveyor.yml</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 11:30:42 +0000    11325 bytes  bin/bundles/base-app/LICENSE</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 11:30:42 +0000      527 bytes  bin/bundles/base-app/README.md</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 11:30:42 +0000      793 bytes  bin/bundles/base-app/package.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 11:30:42 +0000       65 bytes  bin/bundles/base-app/public/index.html</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 11:30:42 +0000      822 bytes  bin/bundles/base-app/server.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 11:30:42 +0000     2082 bytes  bin/bundles/base-plugin/README.md</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 11:30:42 +0000      608 bytes  bin/bundles/base-plugin/index.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 11:30:42 +0000      742 bytes  bin/bundles/base-plugin/package.json</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 11:30:42 +0000     1010 bytes  bin/bundles/base-plugin/test.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 11:30:42 +0000     1921 bytes  bin/cli.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 11:30:42 +0000     1916 bytes  bin/iamalive-c.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 11:30:42 +0000     2065 bytes  bin/tunnel-c.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 11:30:42 +0000     1184 bytes  electron.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 11:30:42 +0000      259 bytes  electron/appdmg.json</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 11:30:42 +0000   105943 bytes  electron/icon.icns</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 11:30:42 +0000   370070 bytes  electron/icon.ico</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 11:30:42 +0000    12684 bytes  electron/loading/loading.css</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 11:30:42 +0000     1744 bytes  electron/loading/loading.html</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 11:30:42 +0000     3193 bytes  gulpfile.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 11:30:42 +0000     2530 bytes  index.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-25 11:30:42 +0000      342 bytes  issue_template.md</tspan>
+<tspan x="10" y="474"> 28.  2017-04-25 11:30:42 +0000     1145 bytes  lib/api.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-25 11:30:42 +0000     1371 bytes  lib/app.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-25 11:30:42 +0000      416 bytes  lib/init.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-25 11:30:42 +0000     2155 bytes  lib/publish.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-25 11:30:42 +0000     1838 bytes  lib/scan.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-25 11:30:42 +0000      622 bytes  lib/start.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-25 11:30:42 +0000      254 bytes  lib/util/validate-app.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-25 11:30:42 +0000     6230 bytes  package.json</tspan>
+<tspan x="10" y="602"> 36.  2017-04-25 11:30:42 +0000     6337 bytes  public/components/apps/app.jsx</tspan>
+<tspan x="10" y="618"> 37.  2017-04-25 11:30:42 +0000     1560 bytes  public/components/apps/apps-list.jsx</tspan>
+<tspan x="10" y="634"> 38.  2017-04-25 11:30:42 +0000     1981 bytes  public/components/apps/drawer.jsx</tspan>
+<tspan x="10" y="650"> 39.  2017-04-25 11:30:42 +0000     3564 bytes  public/components/apps/explorable-app.jsx</tspan>
+<tspan x="10" y="666"> 40.  2017-04-25 11:30:42 +0000     3835 bytes  public/components/apps/explore.jsx</tspan>
+<tspan x="10" y="682"> 41.  2017-04-25 11:30:42 +0000     2826 bytes  public/components/apps/install.jsx</tspan>
+<tspan x="10" y="698"> 42.  2017-04-25 11:30:42 +0000      340 bytes  public/components/apps/live.jsx</tspan>
+<tspan x="10" y="714"> 43.  2017-04-25 11:30:42 +0000     2893 bytes  public/components/devices/controls.jsx</tspan>
+<tspan x="10" y="730"> 44.  2017-04-25 11:30:42 +0000      814 bytes  public/components/devices/device.jsx</tspan>
+<tspan x="10" y="746"> 45.  2017-04-25 11:30:42 +0000      354 bytes  public/components/devices/filter-svg.jsx</tspan>
+<tspan x="10" y="762"> 46.  2017-04-25 11:30:42 +0000      419 bytes  public/components/devices/helper.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-25 11:30:42 +0000     4649 bytes  public/components/devices/index.jsx</tspan>
+<tspan x="10" y="794"> 48.  2017-04-25 11:30:42 +0000     1382 bytes  public/components/devices/network-app.jsx</tspan>
+<tspan x="10" y="810"> 49.  2017-04-25 11:30:42 +0000      662 bytes  public/components/devices/refresh-pod.jsx</tspan>
+<tspan x="10" y="826"> 50.  2017-04-25 11:30:42 +0000     3964 bytes  public/components/history/index.jsx</tspan>
+<tspan x="10" y="842"> 51.  2017-04-25 11:30:42 +0000     5346 bytes  public/components/index.jsx</tspan>
+<tspan x="10" y="858"> 52.  2017-04-25 11:30:42 +0000      767 bytes  public/components/lib/index.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-25 11:30:42 +0000      683 bytes  public/components/misc/activity-pulse.jsx</tspan>
+<tspan x="10" y="890"> 54.  2017-04-25 11:30:42 +0000      808 bytes  public/components/misc/connection-pod.jsx</tspan>
+<tspan x="10" y="906"> 55.  2017-04-25 11:30:42 +0000      267 bytes  public/components/misc/feedback-pod.jsx</tspan>
+<tspan x="10" y="922"> 56.  2017-04-25 11:30:42 +0000     1527 bytes  public/components/misc/history-conf.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-25 11:30:42 +0000      358 bytes  public/components/misc/version-pod.jsx</tspan>
+<tspan x="10" y="954"> 58.  2017-04-25 11:30:42 +0000      310 bytes  public/components/not-found.jsx</tspan>
+<tspan x="10" y="970"> 59.  2017-04-25 11:30:42 +0000     3408 bytes  public/components/notifications/index.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-25 11:30:42 +0000     1126 bytes  public/components/notifications/notifications-po\</tspan>
 <tspan x="10" y="1002">d.jsx</tspan>
-<tspan x="10" y="1018"> 61.  2017-04-18 12:31:05 +0000      871 bytes  public/components/notifications/toast.jsx</tspan>
-<tspan x="10" y="1034"> 62.  2017-04-18 12:31:05 +0000     1449 bytes  public/components/user/login.jsx</tspan>
-<tspan x="10" y="1050"> 63.  2017-04-18 12:31:05 +0000     3308 bytes  public/components/user/settings.jsx</tspan>
-<tspan x="10" y="1066"> 64.  2017-04-18 12:31:05 +0000     2063 bytes  public/components/user/signup.jsx</tspan>
-<tspan x="10" y="1082"> 65.  2017-04-18 12:31:05 +0000     2370 bytes  public/components/user/user-pod.jsx</tspan>
-<tspan x="10" y="1098"> 66.  2017-04-18 12:31:05 +0000  3606163 bytes  public/dist/bundle.js</tspan>
-<tspan x="10" y="1114"> 67.  2017-04-18 12:31:05 +0000  4160274 bytes  public/dist/bundle.js.map</tspan>
-<tspan x="10" y="1130"> 68.  2017-04-18 12:31:05 +0000    48141 bytes  public/dist/style.css</tspan>
-<tspan x="10" y="1146"> 69.  2017-04-18 12:31:05 +0000   169745 bytes  public/dist/style.css.map</tspan>
-<tspan x="10" y="1162"> 70.  2017-04-18 12:31:05 +0000   109688 bytes  public/fonts/fa/FontAwesome.otf</tspan>
-<tspan x="10" y="1178"> 71.  2017-04-18 12:31:05 +0000    70807 bytes  public/fonts/fa/fontawesome-webfont.eot</tspan>
-<tspan x="10" y="1194"> 72.  2017-04-18 12:31:05 +0000   365616 bytes  public/fonts/fa/fontawesome-webfont.svg</tspan>
-<tspan x="10" y="1210"> 73.  2017-04-18 12:31:05 +0000   142072 bytes  public/fonts/fa/fontawesome-webfont.ttf</tspan>
-<tspan x="10" y="1226"> 74.  2017-04-18 12:31:05 +0000    83588 bytes  public/fonts/fa/fontawesome-webfont.woff</tspan>
-<tspan x="10" y="1242"> 75.  2017-04-18 12:31:05 +0000    66624 bytes  public/fonts/fa/fontawesome-webfont.woff2</tspan>
-<tspan x="10" y="1258"> 76.  2017-04-18 12:31:05 +0000   158444 bytes  public/fonts/fira-sans/FiraSans-Bold.ttf</tspan>
-<tspan x="10" y="1274"> 77.  2017-04-18 12:31:05 +0000   161912 bytes  public/fonts/fira-sans/FiraSans-BoldItalic.ttf</tspan>
-<tspan x="10" y="1290"> 78.  2017-04-18 12:31:05 +0000   162248 bytes  public/fonts/fira-sans/FiraSans-Italic.ttf</tspan>
-<tspan x="10" y="1306"> 79.  2017-04-18 12:31:05 +0000   158520 bytes  public/fonts/fira-sans/FiraSans-Light.ttf</tspan>
-<tspan x="10" y="1322"> 80.  2017-04-18 12:31:05 +0000   162140 bytes  public/fonts/fira-sans/FiraSans-LightItalic.ttf</tspan>
-<tspan x="10" y="1338"> 81.  2017-04-18 12:31:05 +0000   158552 bytes  public/fonts/fira-sans/FiraSans-Medium.ttf</tspan>
-<tspan x="10" y="1354"> 82.  2017-04-18 12:31:05 +0000   162312 bytes  public/fonts/fira-sans/FiraSans-MediumItalic.ttf</tspan>
-<tspan x="10" y="1370"> 83.  2017-04-18 12:31:05 +0000   158584 bytes  public/fonts/fira-sans/FiraSans-Regular.ttf</tspan>
-<tspan x="10" y="1386"> 84.  2017-04-18 12:31:05 +0000    63808 bytes  public/fonts/proxima-nova/ProximaNova-Bold.otf</tspan>
-<tspan x="10" y="1402"> 85.  2017-04-18 12:31:05 +0000     3047 bytes  public/img/02.png</tspan>
-<tspan x="10" y="1418"> 86.  2017-04-18 12:31:05 +0000     4110 bytes  public/img/brand.png</tspan>
-<tspan x="10" y="1434"> 87.  2017-04-18 12:31:05 +0000  1787757 bytes  public/img/dashboard-demo.gif</tspan>
-<tspan x="10" y="1450"> 88.  2017-04-18 12:31:05 +0000     8262 bytes  public/img/device.png</tspan>
-<tspan x="10" y="1466"> 89.  2017-04-18 12:31:05 +0000     6227 bytes  public/img/dflt.png</tspan>
-<tspan x="10" y="1482"> 90.  2017-04-18 12:31:05 +0000     5038 bytes  public/img/explore.png</tspan>
-<tspan x="10" y="1498"> 91.  2017-04-18 12:31:05 +0000      810 bytes  public/img/favicon.png</tspan>
-<tspan x="10" y="1514"> 92.  2017-04-18 12:31:05 +0000  1273249 bytes  public/img/history.gif</tspan>
-<tspan x="10" y="1530"> 93.  2017-04-18 12:31:05 +0000     3215 bytes  public/img/history.png</tspan>
-<tspan x="10" y="1546"> 94.  2017-04-18 12:31:05 +0000      696 bytes  public/img/logo_grey_basic.png</tspan>
-<tspan x="10" y="1562"> 95.  2017-04-18 12:31:05 +0000    97804 bytes  public/img/netbot.png</tspan>
-<tspan x="10" y="1578"> 96.  2017-04-18 12:31:05 +0000    25436 bytes  public/img/network.png</tspan>
-<tspan x="10" y="1594"> 97.  2017-04-18 12:31:05 +0000     6227 bytes  public/img/package-unfilled.png</tspan>
-<tspan x="10" y="1610"> 98.  2017-04-18 12:31:05 +0000     6751 bytes  public/img/package.png</tspan>
-<tspan x="10" y="1626"> 99.  2017-04-18 12:31:05 +0000     9396 bytes  public/img/plugin.png</tspan>
-<tspan x="10" y="1642">100.  2017-04-18 12:31:05 +0000     6346 bytes  public/img/plugin_filled.png</tspan>
-<tspan x="10" y="1658">101.  2017-04-18 12:31:05 +0000     8304 bytes  public/img/rumbot_unfilled.png</tspan>
-<tspan x="10" y="1674">102.  2017-04-18 12:31:05 +0000      453 bytes  public/index.html</tspan>
-<tspan x="10" y="1690">103.  2017-04-18 12:31:05 +0000     8861 bytes  public/styles/components.scss</tspan>
-<tspan x="10" y="1706">104.  2017-04-18 12:31:05 +0000     3037 bytes  public/styles/style.scss</tspan>
-<tspan x="10" y="1722">105.  2017-04-18 12:31:05 +0000      679 bytes  public/styles/variables.scss</tspan>
-<tspan x="10" y="1738">106.  2017-04-18 12:31:05 +0000      345 bytes  public/styles/vendor/Typist.css</tspan>
-<tspan x="10" y="1754">107.  2017-04-18 12:31:05 +0000    12359 bytes  public/styles/vendor/bootstrap-subset.css</tspan>
-<tspan x="10" y="1770">108.  2017-04-18 12:31:05 +0000    33239 bytes  public/styles/vendor/font-awesome.css</tspan>
-<tspan x="10" y="1786">109.  2017-04-18 12:31:05 +0000     7289 bytes  public/styles/vendor/normalize.css</tspan>
-<tspan x="10" y="1802">110.  2017-04-18 12:31:05 +0000      716 bytes  src/boot-on-load.js</tspan>
-<tspan x="10" y="1818">111.  2017-04-18 12:31:05 +0000     2046 bytes  src/helpers/broker.js</tspan>
-<tspan x="10" y="1834">112.  2017-04-18 12:31:05 +0000     1728 bytes  src/helpers/resource.js</tspan>
-<tspan x="10" y="1850">113.  2017-04-18 12:31:05 +0000     2460 bytes  src/helpers/scene.js</tspan>
-<tspan x="10" y="1866">114.  2017-04-18 12:31:05 +0000     1210 bytes  src/index.js</tspan>
-<tspan x="10" y="1882">115.  2017-04-18 12:31:05 +0000      417 bytes  src/middleware/cors.js</tspan>
-<tspan x="10" y="1898">116.  2017-04-18 12:31:05 +0000      976 bytes  src/middleware/installer.js</tspan>
-<tspan x="10" y="1914">117.  2017-04-18 12:31:05 +0000     2136 bytes  src/middleware/proxy.js</tspan>
-<tspan x="10" y="1930">118.  2017-04-18 12:31:05 +0000     2090 bytes  src/models/_install.js</tspan>
-<tspan x="10" y="1946">119.  2017-04-18 12:31:05 +0000     3911 bytes  src/models/activity.js</tspan>
-<tspan x="10" y="1962">120.  2017-04-18 12:31:05 +0000     2833 bytes  src/models/app.js</tspan>
-<tspan x="10" y="1978">121.  2017-04-18 12:31:05 +0000     2992 bytes  src/models/resource.js</tspan>
-<tspan x="10" y="1994">122.  2017-04-18 12:31:05 +0000     1635 bytes  src/models/scene.js</tspan>
-<tspan x="10" y="2010">123.  2017-04-18 12:31:05 +0000      780 bytes  src/routes/activities.js</tspan>
-<tspan x="10" y="2026">124.  2017-04-18 12:31:05 +0000     3233 bytes  src/routes/apps.js</tspan>
-<tspan x="10" y="2042">125.  2017-04-18 12:31:05 +0000      236 bytes  src/routes/index.js</tspan>
-<tspan x="10" y="2058">126.  2017-04-18 12:31:05 +0000     4568 bytes  src/routes/resources.js</tspan>
-<tspan x="10" y="2074">127.  2017-04-18 12:31:05 +0000     1433 bytes  src/routes/scene.js</tspan>
-<tspan x="10" y="2090">128.  2017-04-18 12:31:05 +0000      685 bytes  src/services/advertiser.js</tspan>
-<tspan x="10" y="2106">129.  2017-04-18 12:31:05 +0000     2651 bytes  src/services/scanner.js</tspan>
-<tspan x="10" y="2122">130.  2017-04-18 12:31:05 +0000      595 bytes  src/util/api-error.js</tspan>
-<tspan x="10" y="2138">131.  2017-04-18 12:31:05 +0000     1346 bytes  ssl/dashboard-cert.pem</tspan>
-<tspan x="10" y="2154">132.  2017-04-18 12:31:05 +0000     1679 bytes  ssl/dashboard-key.pem</tspan>
+<tspan x="10" y="1018"> 61.  2017-04-25 11:30:42 +0000      871 bytes  public/components/notifications/toast.jsx</tspan>
+<tspan x="10" y="1034"> 62.  2017-04-25 11:30:42 +0000     1449 bytes  public/components/user/login.jsx</tspan>
+<tspan x="10" y="1050"> 63.  2017-04-25 11:30:42 +0000     3308 bytes  public/components/user/settings.jsx</tspan>
+<tspan x="10" y="1066"> 64.  2017-04-25 11:30:42 +0000     2063 bytes  public/components/user/signup.jsx</tspan>
+<tspan x="10" y="1082"> 65.  2017-04-25 11:30:42 +0000     2370 bytes  public/components/user/user-pod.jsx</tspan>
+<tspan x="10" y="1098"> 66.  2017-04-25 11:30:42 +0000  3606163 bytes  public/dist/bundle.js</tspan>
+<tspan x="10" y="1114"> 67.  2017-04-25 11:30:42 +0000  4160274 bytes  public/dist/bundle.js.map</tspan>
+<tspan x="10" y="1130"> 68.  2017-04-25 11:30:42 +0000    48141 bytes  public/dist/style.css</tspan>
+<tspan x="10" y="1146"> 69.  2017-04-25 11:30:42 +0000   169745 bytes  public/dist/style.css.map</tspan>
+<tspan x="10" y="1162"> 70.  2017-04-25 11:30:42 +0000   109688 bytes  public/fonts/fa/FontAwesome.otf</tspan>
+<tspan x="10" y="1178"> 71.  2017-04-25 11:30:42 +0000    70807 bytes  public/fonts/fa/fontawesome-webfont.eot</tspan>
+<tspan x="10" y="1194"> 72.  2017-04-25 11:30:42 +0000   365616 bytes  public/fonts/fa/fontawesome-webfont.svg</tspan>
+<tspan x="10" y="1210"> 73.  2017-04-25 11:30:42 +0000   142072 bytes  public/fonts/fa/fontawesome-webfont.ttf</tspan>
+<tspan x="10" y="1226"> 74.  2017-04-25 11:30:42 +0000    83588 bytes  public/fonts/fa/fontawesome-webfont.woff</tspan>
+<tspan x="10" y="1242"> 75.  2017-04-25 11:30:42 +0000    66624 bytes  public/fonts/fa/fontawesome-webfont.woff2</tspan>
+<tspan x="10" y="1258"> 76.  2017-04-25 11:30:42 +0000   158444 bytes  public/fonts/fira-sans/FiraSans-Bold.ttf</tspan>
+<tspan x="10" y="1274"> 77.  2017-04-25 11:30:42 +0000   161912 bytes  public/fonts/fira-sans/FiraSans-BoldItalic.ttf</tspan>
+<tspan x="10" y="1290"> 78.  2017-04-25 11:30:42 +0000   162248 bytes  public/fonts/fira-sans/FiraSans-Italic.ttf</tspan>
+<tspan x="10" y="1306"> 79.  2017-04-25 11:30:42 +0000   158520 bytes  public/fonts/fira-sans/FiraSans-Light.ttf</tspan>
+<tspan x="10" y="1322"> 80.  2017-04-25 11:30:42 +0000   162140 bytes  public/fonts/fira-sans/FiraSans-LightItalic.ttf</tspan>
+<tspan x="10" y="1338"> 81.  2017-04-25 11:30:42 +0000   158552 bytes  public/fonts/fira-sans/FiraSans-Medium.ttf</tspan>
+<tspan x="10" y="1354"> 82.  2017-04-25 11:30:42 +0000   162312 bytes  public/fonts/fira-sans/FiraSans-MediumItalic.ttf</tspan>
+<tspan x="10" y="1370"> 83.  2017-04-25 11:30:42 +0000   158584 bytes  public/fonts/fira-sans/FiraSans-Regular.ttf</tspan>
+<tspan x="10" y="1386"> 84.  2017-04-25 11:30:42 +0000    63808 bytes  public/fonts/proxima-nova/ProximaNova-Bold.otf</tspan>
+<tspan x="10" y="1402"> 85.  2017-04-25 11:30:42 +0000     3047 bytes  public/img/02.png</tspan>
+<tspan x="10" y="1418"> 86.  2017-04-25 11:30:42 +0000     4110 bytes  public/img/brand.png</tspan>
+<tspan x="10" y="1434"> 87.  2017-04-25 11:30:42 +0000  1787757 bytes  public/img/dashboard-demo.gif</tspan>
+<tspan x="10" y="1450"> 88.  2017-04-25 11:30:42 +0000     8262 bytes  public/img/device.png</tspan>
+<tspan x="10" y="1466"> 89.  2017-04-25 11:30:42 +0000     6227 bytes  public/img/dflt.png</tspan>
+<tspan x="10" y="1482"> 90.  2017-04-25 11:30:42 +0000     5038 bytes  public/img/explore.png</tspan>
+<tspan x="10" y="1498"> 91.  2017-04-25 11:30:42 +0000      810 bytes  public/img/favicon.png</tspan>
+<tspan x="10" y="1514"> 92.  2017-04-25 11:30:42 +0000  1273249 bytes  public/img/history.gif</tspan>
+<tspan x="10" y="1530"> 93.  2017-04-25 11:30:42 +0000     3215 bytes  public/img/history.png</tspan>
+<tspan x="10" y="1546"> 94.  2017-04-25 11:30:42 +0000      696 bytes  public/img/logo_grey_basic.png</tspan>
+<tspan x="10" y="1562"> 95.  2017-04-25 11:30:42 +0000    97804 bytes  public/img/netbot.png</tspan>
+<tspan x="10" y="1578"> 96.  2017-04-25 11:30:42 +0000    25436 bytes  public/img/network.png</tspan>
+<tspan x="10" y="1594"> 97.  2017-04-25 11:30:42 +0000     6227 bytes  public/img/package-unfilled.png</tspan>
+<tspan x="10" y="1610"> 98.  2017-04-25 11:30:42 +0000     6751 bytes  public/img/package.png</tspan>
+<tspan x="10" y="1626"> 99.  2017-04-25 11:30:42 +0000     9396 bytes  public/img/plugin.png</tspan>
+<tspan x="10" y="1642">100.  2017-04-25 11:30:42 +0000     6346 bytes  public/img/plugin_filled.png</tspan>
+<tspan x="10" y="1658">101.  2017-04-25 11:30:42 +0000     8304 bytes  public/img/rumbot_unfilled.png</tspan>
+<tspan x="10" y="1674">102.  2017-04-25 11:30:42 +0000      453 bytes  public/index.html</tspan>
+<tspan x="10" y="1690">103.  2017-04-25 11:30:42 +0000     8861 bytes  public/styles/components.scss</tspan>
+<tspan x="10" y="1706">104.  2017-04-25 11:30:42 +0000     3037 bytes  public/styles/style.scss</tspan>
+<tspan x="10" y="1722">105.  2017-04-25 11:30:42 +0000      679 bytes  public/styles/variables.scss</tspan>
+<tspan x="10" y="1738">106.  2017-04-25 11:30:42 +0000      345 bytes  public/styles/vendor/Typist.css</tspan>
+<tspan x="10" y="1754">107.  2017-04-25 11:30:42 +0000    12359 bytes  public/styles/vendor/bootstrap-subset.css</tspan>
+<tspan x="10" y="1770">108.  2017-04-25 11:30:42 +0000    33239 bytes  public/styles/vendor/font-awesome.css</tspan>
+<tspan x="10" y="1786">109.  2017-04-25 11:30:42 +0000     7289 bytes  public/styles/vendor/normalize.css</tspan>
+<tspan x="10" y="1802">110.  2017-04-25 11:30:42 +0000      716 bytes  src/boot-on-load.js</tspan>
+<tspan x="10" y="1818">111.  2017-04-25 11:30:42 +0000     2046 bytes  src/helpers/broker.js</tspan>
+<tspan x="10" y="1834">112.  2017-04-25 11:30:42 +0000     1728 bytes  src/helpers/resource.js</tspan>
+<tspan x="10" y="1850">113.  2017-04-25 11:30:42 +0000     2460 bytes  src/helpers/scene.js</tspan>
+<tspan x="10" y="1866">114.  2017-04-25 11:30:42 +0000     1210 bytes  src/index.js</tspan>
+<tspan x="10" y="1882">115.  2017-04-25 11:30:42 +0000      417 bytes  src/middleware/cors.js</tspan>
+<tspan x="10" y="1898">116.  2017-04-25 11:30:42 +0000      976 bytes  src/middleware/installer.js</tspan>
+<tspan x="10" y="1914">117.  2017-04-25 11:30:42 +0000     2136 bytes  src/middleware/proxy.js</tspan>
+<tspan x="10" y="1930">118.  2017-04-25 11:30:42 +0000     2090 bytes  src/models/_install.js</tspan>
+<tspan x="10" y="1946">119.  2017-04-25 11:30:42 +0000     3911 bytes  src/models/activity.js</tspan>
+<tspan x="10" y="1962">120.  2017-04-25 11:30:42 +0000     2833 bytes  src/models/app.js</tspan>
+<tspan x="10" y="1978">121.  2017-04-25 11:30:42 +0000     2992 bytes  src/models/resource.js</tspan>
+<tspan x="10" y="1994">122.  2017-04-25 11:30:42 +0000     1635 bytes  src/models/scene.js</tspan>
+<tspan x="10" y="2010">123.  2017-04-25 11:30:42 +0000      780 bytes  src/routes/activities.js</tspan>
+<tspan x="10" y="2026">124.  2017-04-25 11:30:42 +0000     3233 bytes  src/routes/apps.js</tspan>
+<tspan x="10" y="2042">125.  2017-04-25 11:30:42 +0000      236 bytes  src/routes/index.js</tspan>
+<tspan x="10" y="2058">126.  2017-04-25 11:30:42 +0000     4568 bytes  src/routes/resources.js</tspan>
+<tspan x="10" y="2074">127.  2017-04-25 11:30:42 +0000     1433 bytes  src/routes/scene.js</tspan>
+<tspan x="10" y="2090">128.  2017-04-25 11:30:42 +0000      685 bytes  src/services/advertiser.js</tspan>
+<tspan x="10" y="2106">129.  2017-04-25 11:30:42 +0000     2651 bytes  src/services/scanner.js</tspan>
+<tspan x="10" y="2122">130.  2017-04-25 11:30:42 +0000      595 bytes  src/util/api-error.js</tspan>
+<tspan x="10" y="2138">131.  2017-04-25 11:30:42 +0000     1346 bytes  ssl/dashboard-cert.pem</tspan>
+<tspan x="10" y="2154">132.  2017-04-25 11:30:42 +0000     1679 bytes  ssl/dashboard-key.pem</tspan>
 </text>
 </svg>
